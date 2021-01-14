@@ -1,2 +1,2 @@
 # Grid-Master
-Zero to Mastery intro to CSS Grid
+Zero to Mastery Academy intro to CSS Grid
